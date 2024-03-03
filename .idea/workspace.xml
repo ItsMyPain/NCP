@@ -5,17 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="acdb0ac0-f4ae-4aa2-b2b3-601754969bff" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/NCP.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab 1/equation.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab 1/practical.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab 1/theoretical.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/NCP.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/NCP.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab 1/theoretical.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Lab 1/theoretical.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -115,7 +109,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-5a2391486177-2887949eec09-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.13763.11" />
+        <option value="bundled-python-sdk-d68999036c7f-b11f5e8da5ad-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.14475.56" />
       </set>
     </attachedChunks>
   </component>
@@ -131,6 +125,13 @@
       <workItem from="1708875586453" duration="7451000" />
       <workItem from="1708969198324" duration="4790000" />
       <workItem from="1709195556277" duration="617000" />
+      <workItem from="1709295594577" duration="1241000" />
+      <workItem from="1709301661233" duration="484000" />
+      <workItem from="1709302325714" duration="627000" />
+      <workItem from="1709303265116" duration="2216000" />
+      <workItem from="1709321716622" duration="2108000" />
+      <workItem from="1709369379867" duration="123000" />
+      <workItem from="1709369515921" duration="1278000" />
     </task>
     <servers />
   </component>

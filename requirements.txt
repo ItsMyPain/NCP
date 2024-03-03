@@ -1,2 +1,4 @@
 sympy~=1.12
 numpy~=1.26
+IPython~=8.22.1
+matplotlib~=3.5
